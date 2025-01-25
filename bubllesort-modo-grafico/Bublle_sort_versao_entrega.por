@@ -526,7 +526,7 @@ funcao merge_sort(inteiro vetor[], inteiro inic, inteiro fim)
 		g.desenhar_texto(170, 769, "Criado e desenvolvido por : ")
 		g.definir_estilo_texto(verdadeiro, falso, falso)
 		g.definir_tamanho_texto(22.0)
-		g.desenhar_texto(456, 771, "Jonathan Reinaldo Eichenberger e Felipe Fernandes Ribeiro")
+		g.desenhar_texto(456, 771, "Jonathan Reinaldo Eichenberger")
 		
 	}
 
@@ -563,7 +563,7 @@ funcao merge_sort(inteiro vetor[], inteiro inic, inteiro fim)
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 5920; 
+ * @POSICAO-CURSOR = 10531; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
