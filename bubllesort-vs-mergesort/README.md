@@ -1,3 +1,5 @@
+[VOLTAR AO INICIO](../README.md)
+
 ## Merge Sort vs. Bubble Sort
 
 ### O que é um algoritmo de ordenação?
