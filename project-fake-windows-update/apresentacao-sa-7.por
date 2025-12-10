@@ -222,7 +222,7 @@ programa
 			g.definir_cor(g.COR_PRETO)
 			g.definir_estilo_texto(falso, verdadeiro, falso)
 			g.definir_tamanho_texto(40.0)
-			g.desenhar_texto(g.largura_janela() - contador_condicao + 760 , 642, "VOCÊS NÃO CAIRAM NESSA NÃO NÉ? #GLOBOMECONTRATA #TOCOMTEMPOSOBRANDO")
+			g.desenhar_texto(g.largura_janela() - contador_condicao + 760 , 642, "    V O C Ê S   N Ã O   C A I R A M   N E S S A   N Ã O   N É?")
 			
 		}
 		
@@ -270,7 +270,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 4944; 
+ * @POSICAO-CURSOR = 4869; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {contador, 212, 11, 8};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
